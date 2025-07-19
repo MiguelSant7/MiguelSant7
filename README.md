@@ -1,6 +1,12 @@
 # 👋 Olá, eu sou o Miguel! 
 ### Sou estudante de programação apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de aprender novas linguagens e aprimorar minhas habilidades em projetos práticos.
-
+  ##
+<div> 
+  <img heigth="300em" width="450em" src="https://github-readme-stats.vercel.app/api?username=MiguelSant7&show_icons=true&theme=radical"/>
+   &nbsp;&nbsp;&nbsp;
+  <img heigth="260em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSant7&layout=compact&theme=radical"/>
+</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Mig-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mig-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -15,3 +21,6 @@
  <a href="mailto:miguelsantoss006@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Miguel,"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/migueldsantossilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
